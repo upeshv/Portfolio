@@ -23,6 +23,7 @@
 
 <details>
 <summary><b>🤖 AI Optimization & Figma-to-MCP Pipeline</b> — <i>(Click to expand)</i></summary>
+  
 <ul>
   <li><b>AI Enablement:</b> Led Copilot adoption for 14 CMS squads, achieving a <b>25% lift in developer velocity</b>.</li>
   <li><b>Architectural Innovation:</b> Developed an automated <b>Figma-to-MCP server pipeline</b> using Model Context Protocol.</li>
