@@ -2,3 +2,13 @@ title: Upesh Vishwakarma
 description: Senior WordPress Engineer | WordPress Architect | Sr. Team Lead
 show_downloads: false
 theme: jekyll-theme-cayman
+
+# This CSS hides the duplicate header on the live site but keeps it on GitHub
+header_pages:
+  - all
+kramdown:
+  parse_block_html: true
+
+# Custom CSS to hide the repo-header div on the live site
+css: |
+  #repo-header { display: none !important; }
