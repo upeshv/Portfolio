@@ -72,7 +72,9 @@
 **2019 - PRESENT** | **Senior Team Lead (Full Stack / WordPress Architect)** at [BrowserStack](https://www.browserstack.com/)
 - Directing a high-velocity squad of **8+ Engineers**, serving as the primary Technical Authority for a global WordPress ecosystem supporting 14+ Marketing and Growth functions.
 - Leading quarterly OKR planning and engineering roadmaps, achieving a **25% lift in productivity** through AI-driven development (WP Agents) and automated workflows.
+- Created CI/CD Deploy Pipelines and alerting around systems.
 - Standardized high-performance engineering practices, ensuring **100% compliance with Core Web Vitals (CWV)** and WCAG Accessibility standards across 5,000+ pages.
+- Supports new hires in their journey to learn and acquire knowledge.
 
 **2017 - 2019** | **Senior WordPress Developer** at Mediserve Solutions PVT LTD
 - Architected and developed responsive, dynamic websites using scratch-built WordPress themes and plugins for enterprise clients.
