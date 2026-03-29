@@ -19,8 +19,6 @@
 ## 🏆 Career Projects & Milestone Achievements
 *Strategic leadership and technical execution during my 7-year tenure at BrowserStack.*
 
----
-
 <details>
 <summary><b>🤖 AI Optimization & Figma-to-MCP Pipeline</b> — <i>(Click to expand)</i></summary>
   
