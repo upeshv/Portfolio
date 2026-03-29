@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Professional Summary
+## 📋 Professional Summarys
 - **11+ Years** of deep technical expertise in WordPress Architecture and Full-Stack Engineering.
 - **Senior Team Lead at BrowserStack** (2019–Present), directing high-velocity squads of 8+ engineers.
 - Specialist in **Enterprise Migrations (Rails-to-WP)**, **AI-Driven Automation**, and **Infrastructure Cost Optimization**.
@@ -20,9 +20,9 @@
 *Strategic leadership and technical execution during my 7-year tenure at BrowserStack.*
 
 <details>
-
+<summary>
   <b>🤖 AI Optimization & Figma-to-MCP Pipeline</b> — 📂 <i>[Click to see Impact]</i>
-
+</summary>
 
 <ul>
 <li><b>AI Enablement:</b> Led Copilot adoption for 14 CMS squads, achieving a <b>25% lift in developer velocity</b>.</li>
@@ -34,7 +34,9 @@
 <div style="height:8px"></div>
 
 <details>
-<summary><b>🌐 Enterprise Website Revamp & Engineering Automation</b> — 📂 <i>[Click to see Impact]</i></summary>
+<summary>
+  <b>🌐 Enterprise Website Revamp & Engineering Automation</b> — 📂 <i>[Click to see Impact]</i>
+</summary>
 
 <ul>
 <li><b>Scale:</b> Directed a <b>5,000+ page architectural overhaul</b> across WordPress and documentation platforms.</li>
@@ -46,7 +48,9 @@
 <div style="height:8px"></div>
 
 <details>
-<summary><b>📦 Infrastructure: WPEngine Staging Re-Design</b> — 📂 <i>[Click to see Impact]</i></summary>
+<summary>
+  <b>📦 Infrastructure: WPEngine Staging Re-Design</b> — 📂 <i>[Click to see Impact]</i>
+</summary>
 
 <ul>
 <li><b>Resource Optimization:</b> Consolidated fragmented upload directories, recovering <b>30GB+ of high-cost storage</b>.</li>
@@ -58,7 +62,9 @@
 <div style="height:8px"></div>
 
 <details>
-<summary><b>🔄 Global Migration: Rails to WordPress</b> — 📂 <i>[Click to see Impact]</i></summary>
+<summary>
+  <b>🔄 Global Migration: Rails to WordPress</b> — 📂 <i>[Click to see Impact]</i>
+</summary>
 
 <ul>
 <li><b>Execution:</b> Architected the end-to-end migration of <b>3,200+ documentation pages</b> in just 4 months.</li>
@@ -70,7 +76,9 @@
 <div style="height:8px"></div>
 
 <details>
-<summary><b>⚡ Performance: BrowserStack Speed Optimization</b> — 📂 <i>[Click to see Impact]</i></summary>
+<summary>
+  <b>⚡ Performance: BrowserStack Speed Optimization</b> — 📂 <i>[Click to see Impact]</i>
+</summary>
 
 <ul>
 <li><b>Speed Benchmarks:</b> Achieved Desktop (1.2s - 1.8s) and Mobile (1.6s - 2.3s) load times.</li>
@@ -82,7 +90,9 @@
 <div style="height:8px"></div>
 
 <details>
-<summary><b>⚙️ Engineering Operations (OKRs)</b> — 📂 <i>[Click to see Impact]</i></summary>
+<summary>
+  <b>⚙️ Engineering Operations (OKRs)</b> — 📂 <i>[Click to see Impact]</i>
+</summary>
 
 <ul>
 <li><b>Environment Sync:</b> Created Jenkins jobs for daily Production-to-Staging DB synchronization.</li>
