@@ -1,45 +1,105 @@
-# 💻 My Portfolio - Upesh Vishwakarma
-> **Senior WordPress Engineer | WordPress Architect | Sr. Team Lead**
+# Upesh Vishwakarma
+### Senior WordPress Engineer | WordPress Architect | Sr. Team Lead
 
-Welcome to my professional portfolio. Here, I document the architectural patterns, enterprise migrations, and performance toolkits I've developed over a decade of full-stack engineering.
-
----
-
-## 🚀 Featured Projects (BrowserStack & Beyond)
-
-| Project Name | Tech Stack | Key Achievement |
-| :--- | :--- | :--- |
-| **Rails to WP Migration** | PHP, REST API, GitHub Actions | Migrated 3,200+ docs in 4 months with 0 downtime. |
-| **Figma-to-MCP Pipeline** | Node.js, MCP, AI Agents | Boosted dev velocity by 25% via automated scaffolding. |
-| **CWV Monitoring Suite** | Vanilla JS, Jenkins, Web Vitals | Achieved 100% Core Web Vitals compliance at scale. |
-| **WPEngine Master Sync** | Bash, WP-CLI, Jenkins | Recovered 30GB storage & saved $1,200/yr in hosting. |
+[LinkedIn](https://linkedin.com/in/upeshv) | [GitHub Profile](https://github.com/upeshv) | [Technical Labs](https://github.com/upeshv/upeshv#📋-technical-labs--toolkits)
 
 ---
 
-## 🛠️ Technical Expertise
-
-### 🖥️ Frontend & CMS
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### ⚙️ Backend & DevOps
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+## 📋 Professional Summary
+- **11+ Years** of deep technical expertise in WordPress Architecture and Full-Stack Engineering.
+- **Senior Team Lead at BrowserStack** (2019–Present), directing high-velocity squads of 8+ engineers.
+- Specialist in **Enterprise Migrations (Rails-to-WP)**, **AI-Driven Automation**, and **Infrastructure Cost Optimization**.
+- Proven track record of achieving **100% Core Web Vitals (CWV)** compliance for 5,000+ page ecosystems.
 
 ---
 
-## 📈 Open Source Contributions
-*Active contributor to the WordPress ecosystem and enterprise automation tools.*
-- [enterprise-wp-standards](https://github.com/upeshv/enterprise-wp-standards)
-- [wp-performance-toolkit](https://github.com/upeshv/wp-performance-toolkit)
-- [jenkins-scripts](https://github.com/upeshv/jenkins-scripts)
+## 🏆 Career Projects & Milestone Achievements
+*Strategic leadership and technical execution during my 7-year tenure at BrowserStack.*
+
+<details>
+<summary><b>🤖 AI Optimization & Figma-to-MCP Pipeline</b></summary>
+
+- **AI Enablement:** Led Copilot adoption for 14 CMS squads, achieving a **25% lift in developer velocity**.
+- **Architectural Innovation:** Developed an automated **Figma-to-MCP server pipeline**, bridging the gap between UI design and frontend scaffolding using Model Context Protocol.
+- **SDD Frameworks:** Implemented structured SDD to optimize AI output, reducing manual refactoring by 20%.
+</details>
+
+<details>
+<summary><b>🌐 Enterprise Website Revamp & Engineering Automation</b></summary>
+
+- **Scale:** Directed a **5,000+ page architectural overhaul** across WordPress and documentation platforms.
+- **Performance:** Engineered a **CWV monitoring suite**, resolving critical **INP (Interaction to Next Paint)** bottlenecks across 2,000+ high-traffic pages.
+- **Efficiency:** Automated the "Guide Publishing" lifecycle, increasing output by **150% (2.5x)** and recapturing 37.5 hours of monthly engineering bandwidth.
+</details>
+
+<details>
+<summary><b>📦 Infrastructure: WPEngine Staging Re-Design</b></summary>
+
+- **Resource Optimization:** Consolidated fragmented upload directories into a centralized master storage, recovering **30GB+ of high-cost storage**.
+- **Cost Reduction:** Achieved an annual hosting cost reduction of **~$1,200** by streamlining environment utilization.
+- **Scalability:** Engineered a framework allowing rapid deployment of marketing sites without increasing infrastructure overhead.
+</details>
+
+<details>
+<summary><b>🔄 Global Migration: Rails to WordPress</b></summary>
+
+- **Execution:** Architected the end-to-end migration of **3,200+ documentation pages** from legacy Ruby on Rails to custom WordPress in just 4 months.
+- **Custom Tooling:** Developed a Documentation Dashboard using WP Hooks/Filters for real-time CRUD tracking.
+- **Automation:** Built a **GitHub Actions CI/CD pipeline** to sync Markdown-based docs via the WordPress REST API.
+</details>
+
+<details>
+<summary><b>⚡ Performance: BrowserStack Speed Optimization</b></summary>
+
+- **Speed Benchmarks:** Achieved Desktop (1.2s - 1.8s) and Mobile (1.6s - 2.3s) load times.
+- **Technical Refactor:** Completely replaced jQuery with **Vanilla JS** and implemented lazy-loaded Sentry.
+- **Advanced Tactics:** Implemented dynamic **First Fold CSS**, asset bundling, and internal URL prefetching.
+</details>
+
+<details>
+<summary><b>⚙️ Engineering Operations (OKRs)</b></summary>
+
+- **Environment Sync:** Created Jenkins jobs for daily Production-to-Staging DB synchronization.
+- **CI/CD Integration:** Integrated GitHub pipelines with WPEngine and automated asset compilation.
+- **Process Excellence:** Established standardized protocols for WP/PHP/Plugin upgrades and real-time Slack webhook alerts.
+- **Migration:** Successfully migrated complete Instapage projects to WordPress, reducing plugin maintenance overhead.
+</details>
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/upeshv)
-- 📍 Mumbai, India
+## 💼 Work Experience
+
+**2019 - PRESENT** | **Senior Team Lead (Full Stack / WordPress Architect)** at [BrowserStack](https://www.browserstack.com/)
+- Directing a high-velocity squad of **8+ Engineers**, serving as the primary Technical Authority for a global WordPress ecosystem supporting 14+ Marketing and Growth functions.
+- Leading quarterly OKR planning and engineering roadmaps, achieving a **25% lift in productivity** through AI-driven development (WP Agents) and automated workflows.
+- Standardized high-performance engineering practices, ensuring **100% compliance with Core Web Vitals (CWV)** and WCAG Accessibility standards across 5,000+ pages.
+
+**2017 - 2019** | **Senior WordPress Developer** at Mediserve Solutions PVT LTD
+- Architected and developed responsive, dynamic websites using scratch-built WordPress themes and plugins for enterprise clients.
+- Managed end-to-end deployment cycles and implemented performance optimization strategies for high-traffic sites.
+
+**2015 - 2017** | **Senior Web Developer** at Kush Info System PVT LTD
+- Led the transition of legacy web interfaces to modern, responsive frameworks, improving user engagement metrics by 15%.
+- Developed custom backend solutions and integrated third-party APIs to streamline business operations for regional clients.
+
+**2013 - 2014** | **Web Developer** at ALFA Overseas INDIA Technologies
+- Initiated my professional career by building and maintaining robust web applications using the LAMP stack.
+- Collaborated with design teams to translate UI/UX wireframes into functional, cross-browser-compatible frontend code.
+
+---
+
+## 🌟 Open Source & Plugins
+- **[Marketplaces](https://wordpress.org/plugins/marketplaces/)** (Contributor): Suggested architectural solutions for global scaling.
+- **[My Social Tags](https://wordpress.org/plugins/my-facebook-tags/)** (Author): Individually developed plugin for rich metadata social graph integration.
+
+---
+
+## 🎓 Academic Profile
+- **Bachelor of Science in Information Technology** — Mumbai, India (2010 - 2013)
+
+---
+
+## 🚀 Things I Code With
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
