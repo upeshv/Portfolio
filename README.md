@@ -30,7 +30,7 @@
   <li><b>SDD Frameworks:</b> Implemented structured SDD to optimize AI output, reducing manual refactoring by 20%.</li>
 </ul>
 </details>
-<br>
+<div style="height:10px"></div>
 
 <details>
 <summary><b>🌐 Enterprise Website Revamp & Engineering Automation</b> — <i>(Click to expand)</i></summary>
@@ -40,7 +40,7 @@
   <li><b>Efficiency:</b> Automated the "Guide Publishing" lifecycle, increasing output by <b>150% (2.5x)</b>.</li>
 </ul>
 </details>
-<br>
+<div style="height:10px"></div>
 
 <details>
 <summary><b>📦 Infrastructure: WPEngine Staging Re-Design</b> — <i>(Click to expand)</i></summary>
@@ -50,7 +50,7 @@
   <li><b>Scalability:</b> Engineered a framework allowing rapid deployment without increasing overhead.</li>
 </ul>
 </details>
-<br>
+<div style="height:10px"></div>
 
 <details>
 <summary><b>🔄 Global Migration: Rails to WordPress</b> — <i>(Click to expand)</i></summary>
@@ -60,7 +60,7 @@
   <li><b>Automation:</b> Built a <b>GitHub Actions CI/CD pipeline</b> to sync docs via the WordPress REST API.</li>
 </ul>
 </details>
-<br>
+<div style="height:10px"></div>
 
 <details>
 <summary><b>⚡ Performance: BrowserStack Speed Optimization</b> — <i>(Click to expand)</i></summary>
@@ -70,7 +70,7 @@
   <li><b>Advanced Tactics:</b> Implemented dynamic <b>First Fold CSS</b> and internal URL prefetching.</li>
 </ul>
 </details>
-<br>
+<div style="height:10px"></div>
 
 <details>
 <summary><b>⚙️ Engineering Operations (OKRs)</b> — <i>(Click to expand)</i></summary>
